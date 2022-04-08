@@ -13,8 +13,8 @@ const data = {
     },
     {
       status: "Meninggal",
-      value: 155089,
-      total: "https://covid19.mathdro.id/api/countries/indonesia/deaths",
+      total: 155089,
+      detail: "https://covid19.mathdro.id/api/countries/indonesia/deaths",
     },
   ],
 };
