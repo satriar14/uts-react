@@ -1,4 +1,5 @@
 import Home from "./pages/Home";
+import PageProvinsi from "./pages/PageProvinsi";
 
 function App() {
   return (

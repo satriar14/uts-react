@@ -1,0 +1,15 @@
+.container {
+  margin: 1rem;
+}
+
+.provinsi {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.provinsi__title {
+  color: #4361ee;
+  margin-bottom: 1rem;
+  font-size: 2.44rem;
+}

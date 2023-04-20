@@ -4,10 +4,10 @@ const data = {
   provinces: [
     {
       kota: "Jakarta",
-      kasus: 0,
-      sembuh: 0,
-      meninggal: 0,
-      dirawat: 0,
+      kasus: 1,
+      sembuh: 2,
+      meninggal: 3,
+      dirawat: 4,
     },
     {
       kota: "Jawa Barat",
